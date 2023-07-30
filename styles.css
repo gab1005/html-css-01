@@ -1,0 +1,15 @@
+div {
+    background-color: #76bddb;
+}
+
+h1 {
+    color: red;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+p {
+    color: blue;
+    font-size: 40px;
+    font-style: italic;
+}
